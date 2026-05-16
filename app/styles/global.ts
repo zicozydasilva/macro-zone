@@ -44,4 +44,5 @@ export const globalStyles = StyleSheet.create({
     fontWeight: 'bold',
     textDecorationLine: 'underline',
   },
+  
 });
