@@ -25,6 +25,15 @@ export const Colors = {
     tabIconDefault: '#9BA1A6',
     tabIconSelected: tintColorDark,
   },
+  textSecondary: '#687076',
+  textTertiary: '#9BA1A6',
+  textQuaternary: '#ECEDEE',
+  textQuinary: '#11181C',
+  textSenary: '#151718',
+  textSeptenary: '#0a7ea4',
+  textOctonary: '#fff',
+  textNonary: '#000',
+  textDenary: '#000000',
 };
 
 export const Fonts = Platform.select({
